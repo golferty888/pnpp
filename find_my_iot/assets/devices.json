@@ -1,0 +1,15 @@
+{
+  "devices": [
+    {
+      "name": "devicepi",
+      "device": "light",
+      "url": "http://172.20.10.10:8080/connect",
+      "from": {
+        "address": "172.20.10.10",
+        "family": "IPv4",
+        "port": 55521,
+        "size": 109
+      }
+    }
+  ]
+}
